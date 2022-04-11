@@ -37,7 +37,7 @@ class App extends Component {
         })
     };
     shuffleArray = () => {
-        const shuffledArr = this.shuffleArray(this.state.characters);
+        const shuffledArr = this.shuffle(this.state.characters);
         this.setState({ shuffledArr });
     };
     handleIncrement = () => {
@@ -66,6 +66,7 @@ class App extends Component {
                     highScore={this.state.highScore}
                 />
                 <Jumbotron />
+               
                 {this.state.characters.map(character => (
                     <CharacterCard
                         Clicked={this.state.Clicked}
@@ -77,6 +78,7 @@ class App extends Component {
                         occupation={character.occupation}
                     />
                 ))}
+              
             </Wrapper>
         );
     }

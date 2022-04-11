@@ -4,87 +4,74 @@
     {
         "id": 1,
         "clicked" : false,
-        "name": "Angelina Jolie Voight",
-        "image": "http://beauty-around.com/images/sampledata/Hollywood_Actress/1Anjelina-Jolie.jpg",
-        "occupation": "Actress, Director"
+        "name": "Princess Zelda",
+        "image": "https://static.fandomspot.com/images/12/10971/01-princess-zelda-the-legend-of-zelda.jpg",
+        "occupation": "Princess"
       },
       {
         "id": 2,
         "clicked" : false,
-        "name": "Charlize Theron",
-        "image": "http://beauty-around.com/images/sampledata/Hollywood_Actress/2sharliz.jpg",
-        "occupation": "Model, Actress"
+        "name": "Midna",
+        "image": "https://static.fandomspot.com/images/12/10971/02-midna-the-legend-of-zelda-twilight-princess.jpg",
+        "occupation": "Dark Princess"
       },
       {
         "id": 3,
         "clicked" : false,
-        "name": "Jessica Alba",
-        "image": "http://beauty-around.com/images/sampledata/Hollywood_Actress/3Alba.jpg",
-        "occupation": "Model, Actress"
+        "name": "Link",
+        "image": "https://static.fandomspot.com/images/12/10971/03-link-the-legend-of-zelda.jpg",
+        "occupation": "Hero"
       },
       {
         "id": 4,
         "clicked" : false,
-        "name": "Megan Denise Fox",
-        "image": "http://beauty-around.com/images/sampledata/Hollywood_Actress/4Megan_Fox.jpg",
-        "occupation": "Model, Actress"
+        "name": "Impa",
+        "image": "https://static.fandomspot.com/images/12/10971/04-impa-the-legend-of-zelda.jpg",
+        "occupation": "Protector"
       },
       {
         "id": 5,
         "clicked" : false,
-        "name": "Keira Knightley",
-        "image": "http://beauty-around.com/images/sampledata/Hollywood_Actress/6Keira_Knightley.jpg",
-        "occupation": "Actress"
+        "name": "Ganon",
+        "image": "https://static.fandomspot.com/images/12/10971/05-ganon-the-legend-of-zelda.jpg",
+        "occupation": "Demon Lord"
       },
       {
         "id": 6,
         "clicked" : false,
-        "name": "Nina Dobrev",
-        "image": "http://beauty-around.com/images/sampledata/Hollywood_Actress/8nina_Dobrev.jpg",
-        "occupation": "Actress"
+        "name": "King of Red Lions",
+        "image": "https://static.fandomspot.com/images/12/10971/06-king-of-red-lions-the-legend-of-zelda-the-wind-waker.jpg",
+        "occupation": "Ship"
       },
       {
         "id": 7,
         "clicked" : false,
-        "name": "Maria Bellucci",
-        "image": "http://beauty-around.com/images/sampledata/Hollywood_Actress/9Monica.jpg",
-        "occupation": "Model, Actress"
+        "name": "Tingle",
+        "image": "https://static.fandomspot.com/images/12/10971/07-tingle-the-legend-of-zelda-majoras-mask.jpg",
+        "occupation": "Cartographer"
       },
       {
         "id": 8,
         "clicked" : false,
-        "name": "Justin Bieber",
-        "image": "https://www.justinbiebermusic.com/wp-content/themes/justinbieber2/images/bieber-news.png",
-        "occupation": "Singer"
+        "name": "Groose",
+        "image": "https://static.fandomspot.com/images/12/10971/08-groose-the-legend-of-zelda-skyward-sword.jpg",
+        "occupation": "Student"
       },
       {
         "id": 9,
         "clicked" : false,
-        "name": "Daddy Yankee",
-        "image": "https://media1.fdncms.com/orlando/imager/u/original/2514354/gal_sel_daddy-yankee-2016.jpg",
-        "occupation": "Singer"
+        "name": "Happy Mask",
+        "image": "https://static.fandomspot.com/images/12/10971/09-happy-mask-salesman-the-legend-of-zelda.jpg",
+        "occupation": "Salesman"
       },
       {
         "id": 10,
         "clicked" : false,
-        "name": "Sean Paul",
-        "image": "https://www.thepeninsulaqatar.com/uploads/2018/09/20/post_main_cover_fit//1b21da4888de17e14120771c191d5373a06fe9c1.jpg",
-        "occupation": "Singer"
-      },
-      {
-        "id": 11,
-        "clicked" : false,
-        "name": "Deadpool",
-        "image": "https://vignette.wikia.nocookie.net/marvelmovies/images/6/66/Deadpool_promo.png/revision/latest?cb=20150707202600",
-        "occupation": "Hero"
-      },
-      {
-        "id": 12,
-        "clicked" : false,
-        "name": "Sofia Vergara",
-        "image": "https://i.dailymail.co.uk/i/newpix/2018/09/18/20/5017C57300000578-6182201-image-a-100_1537300563965.jpg",
-        "occupation": "Actress"
+        "name": "Ghirahim",
+        "image": "https://static.fandomspot.com/images/12/10971/10-ghirahim-the-legend-of-zelda-skyward-sword.jpg",
+        "occupation": "Demon Lord"
       }
+    
       
 ]
 
